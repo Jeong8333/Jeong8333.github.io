@@ -2,8 +2,8 @@
 main:
   - title: "Menu1"
     url: /GitTest/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Menu2"
+    url: /webTest/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
